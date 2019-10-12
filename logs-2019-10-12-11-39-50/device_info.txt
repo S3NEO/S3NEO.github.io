@@ -1,0 +1,24 @@
+build.board: MSM8226
+build.bootloader: I9301IXCUARA1
+build.brand: samsung
+build.cpu_abi: armeabi-v7a
+build.cpu_abi2: armeabi
+build.device: s3ve3g
+build.display: lineage_s3ve3gxx-userdebug 9 PQ3A.190801.002 eng.fcuzzo.20191011.174717 test-keys
+build.fingerprint: samsung/s3ve3gds/s3ve3g:4.4.2/KOT49H/I9301IXXUANL1:user/release-keys
+build.hardware: qcom
+build.host: Z77-Pro3
+build.id: PQ3A.190801.002
+build.manufacturer: samsung
+build.model: GT-I9301I
+build.product: lineage_s3ve3gxx
+build.radio: unknown
+build.serial: unknown
+build.tags: test-keys
+build.time: 1570808796000
+build.type: userdebug
+build.user: fcuzzocrea
+version.codename: REL
+version.incremental: eng.fcuzzo.20191011.174717
+version.release: 9
+version.sdk_int: 28
